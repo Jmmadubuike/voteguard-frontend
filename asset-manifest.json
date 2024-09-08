@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1660ab10.css",
+    "main.js": "/static/js/main.80d4e451.js",
+    "static/js/453.74f01151.chunk.js": "/static/js/453.74f01151.chunk.js",
+    "static/media/voteguard-logo.png": "/static/media/voteguard-logo.115f4e5372b65af6bfdb.png",
+    "static/media/btc-qr-code.jpg": "/static/media/btc-qr-code.b01037b124db6733f7be.jpg",
+    "index.html": "/index.html",
+    "main.1660ab10.css.map": "/static/css/main.1660ab10.css.map",
+    "main.80d4e451.js.map": "/static/js/main.80d4e451.js.map",
+    "453.74f01151.chunk.js.map": "/static/js/453.74f01151.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1660ab10.css",
+    "static/js/main.80d4e451.js"
+  ]
+}
